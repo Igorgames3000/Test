@@ -4,7 +4,7 @@ This is a test
 ele estava aqui
 # language portuguese Brazilian
 yo its portuguese not spanish :)
-#new year omg
+# new year omg
 the new year is here omg :O 
-#The funny word
+# The funny word
 xD 
