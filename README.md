@@ -8,5 +8,5 @@ yo its portuguese not spanish :)
 the new year is here omg :O 
 # The funny word
 xD 
-#papyrus
+# Papyrus
 its a feio person
